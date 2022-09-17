@@ -11,7 +11,7 @@ pyglet.font.add_file('PonomarUnicode.otf')  # Your TTF file name here
 # MyLabel.pack()
 # root.mainloop()
 #############################################################
-
+#
 units = {}  #словарь цифири 1 - 10
 dozens = {} #словарь десятков
 
